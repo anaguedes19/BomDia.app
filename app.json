@@ -1,0 +1,12 @@
+{
+  "name": "Bomdia",
+  "displayName": "Bomdia",
+  "expo": {
+    "name": "Bomdia",
+    "slug": "Bomdia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
